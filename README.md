@@ -9,3 +9,5 @@ University students suffer from high financial expenses when buying new equipmen
 
 Evidence and Statistics:
 Studies show that producing a single new textbook emits around 7.5 kg of CO2, and electronic devices generate even more. By swapping 3 items per student, a single campus can prevent tons of greenhouse gas emissions annually, directly contributing to a circular economy.
+
+Our app introduces Gamification with the earth timer to instantly reward students with visible environmental impact data, turning sustainability into an engaging campus movement
