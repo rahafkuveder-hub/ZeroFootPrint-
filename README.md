@@ -1,2 +1,2 @@
-# ZeroFootPrint
-ZeroFootPrint is an App dedicated to engage kids and Adults to perform small acts to decrease carbon emission. We could always be encouraged when seeing the empact a small good deed does in saving the environment.
+# ZeroFootPrint 
+ZeroFootPrint is an app dedicated to encourage kids and Adults to perform small acts in order to decrease carbon emission. Sharing every small good deed through a safe community to ensure we all act upon helping our beloved planet.
